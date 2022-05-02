@@ -1,6 +1,6 @@
 # Trybe
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[###### Gabriel Nunes ] (https://www.linkedin.com/in/gabriel-nunes-231ab1238/)_ enquanto estudava na [ Trybe ] (https://www.betrybe.com/) :rocket:
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[ Gabriel Nunes ] (https://www.linkedin.com/in/gabriel-nunes-231ab1238/)_ enquanto estudava na [ Trybe ] (https://www.betrybe.com/) :rocket:
 
 _"A Trybe é uma escola do futuro para quem quer melhorar de vida e construir uma carreira de sucesso em tecnologia."_
 
